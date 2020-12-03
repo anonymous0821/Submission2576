@@ -1,0 +1,10 @@
+base, data corrected
+word frequency bound= 0.3
+NCCADIM= 20
+NMFDIM= 400
+LDADIM= 400
+L1 NCCA= 0
+FS_thre= 2
+NMF initialization methods= nndsvda
+scale=TRUE
+year division text NMF

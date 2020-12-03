@@ -1,0 +1,9 @@
+num_layer1,5
+num_layer2,7
+layer_size1,600.0
+layer_size2,400.0
+learning_rate,0.0009002762650465043
+batch_size,1100.0
+reg_par,8.507942111423036e-05
+act1,ELU
+act2,ELU
